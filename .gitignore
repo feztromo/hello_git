@@ -1,2 +1,3 @@
 .idea
-cmake-build-*c3/
+cmake-build-*
+c3/
