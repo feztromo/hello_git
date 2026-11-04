@@ -5,5 +5,4 @@ int main() {
     return 1;
 }
 
-
 // Programming C++, like a boss ;)
